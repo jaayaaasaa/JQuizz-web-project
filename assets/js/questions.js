@@ -877,7 +877,7 @@ var questionArr = [
         question: "Manakah dari berikut ini yang BUKAN merupakan bahan tradisional dalam bánh mì?",
         firstOption: "Brioche",
         secondOption: "Timun",
-        thirdOption: "Kerumbar",
+        thirdOption: "Ketumbar",
         fourthOption: "Pâté",
         correctAnswer: "#first-option"
     },
